@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 3rem;
+    background-color: #2d2c2c;
+    color: #959090;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    font: inherit;
+    padding: 0.5rem;
+    background-color: #474545;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
